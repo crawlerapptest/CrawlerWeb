@@ -5,7 +5,7 @@ class header extends Component {
 render() {
     return (
         <div>
-            <h3><center>CrawlerWeb - Dados Coletados</center></h3>
+            <h3><center>CrawlerWeb - Apresentar dados coletados do Twitter</center></h3>
             <hr class="hr-primary" />
             <br/>
         </div>
